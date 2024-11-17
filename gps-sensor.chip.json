@@ -1,0 +1,11 @@
+{
+  "name": "gps-sensor",
+  "author": "Upet",
+  "pins": [
+    "VCC",
+    "GND",
+    "RX",
+    "TX"
+  ],
+  "controls": []
+}
