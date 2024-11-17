@@ -1,0 +1,25 @@
+{
+  "name": "heart-rate-sensor",
+  "author": "upet",
+  "pins": [
+    "",
+    "",
+    "",
+    "",
+    "VCC",
+    "GND",
+    "",
+    "A0"
+  ],
+  "controls": [
+    {
+      "id": "heartRate",
+      "label": "Heart Rate BPM",
+      "type": "range",
+      "min": 0,
+      "max": 200,
+      "step": 1
+    }
+
+  ]
+}
