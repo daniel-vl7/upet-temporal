@@ -1,0 +1,26 @@
+{
+  "name": "body-temperature-sensor",
+  "author": "upet",
+  "pins": [
+    "",
+    "",
+    "",
+    "",
+    "VCC",
+    "GND",
+    "",
+    "A0"
+  ],
+  "controls": [
+    {
+      "id": "bodyTemperature",
+      "label": "Body Temperature °C",
+      "type": "range",
+      "min": 20,
+      "max": 45,
+      "step": 0.1,
+      "default": 20.0
+    }
+  ]
+
+}
